@@ -4,7 +4,7 @@
 </h1>
 
 ## Objetivo
-Demonstração de um operador de jogo de FPS. Pagina criada através de curso na EBAC.
+Repositório criado durante módulo de um curso da EBAC com tema livre, onde meu objetivo foi a demonstração de um operador de um jogo FPS. Projeto para fins didáticos.
 
 ## Tecnologias
 
